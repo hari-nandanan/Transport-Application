@@ -81,7 +81,7 @@ const DriverSignup = () => {
   return (
     <>
       <Center fontSize={45} mt="2" color="#212529" fontWeight={"bold"}>
-        Apply to drive with Savari{" "}
+        Apply to drive with TurboHitch{" "}
         <Image
           w="100px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQg0iyKahA50q4EIeuUd6KxtfaynHmUpS-Qg&usqp=CAU"

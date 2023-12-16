@@ -171,7 +171,7 @@ const DriverDashboard = () => {
         </Box>
       </Box>
       <Heading textAlign={"center"}>
-        There's an Savari ride for everyone
+        There's a TurboHitch ride for everyone
       </Heading>
       <Grid
         templateColumns={{
