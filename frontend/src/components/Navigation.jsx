@@ -41,7 +41,7 @@ let username;
     <>  
       <Navbar collapseOnSelect expand="lg"  bg="dark" variant="dark" color="white">  
         <Container>  
-          <Navbar.Brand href="/" className='logoimage'><img src='./images/SAVARI1.png' alt="logo" className='logo'></img></Navbar.Brand>  
+          <Navbar.Brand href="/" className='logoimage'><img src='SAVARI1.jpg' alt="logo" className='logo'></img></Navbar.Brand>  
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />  
   
           <Navbar.Collapse id="responsive-navbar-nav">  
