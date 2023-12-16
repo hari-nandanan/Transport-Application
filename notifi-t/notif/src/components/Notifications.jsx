@@ -19,7 +19,7 @@ const Notifications = () => {
 
   const sendNotification = () => {
     const notificationData = {
-      message: 'New notification uber!',
+      message: 'New notification!',
       // Additional notification data
     };
     console.log(notificationData);
