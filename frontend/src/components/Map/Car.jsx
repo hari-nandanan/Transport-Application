@@ -10,7 +10,7 @@ const data = [
   },
   {
     id: "456",
-    title: "TurboHitch Max",
+    title: "TurboHitch Mini",
     multiplier: 1.2,
     image: "https://links.papareact.com/5w8",
   },
