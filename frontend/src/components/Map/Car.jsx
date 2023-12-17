@@ -4,8 +4,8 @@ import { useNavigate } from "react-router-dom";
 const data = [
   {
     id: "123",
-    title: "TurboHitch Mini",
-    multiplier: 1,
+    title: "Emergency service",
+    multiplier: 0,
     image: "https://links.papareact.com/3pn",
   },
   {
